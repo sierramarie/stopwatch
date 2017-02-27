@@ -4,4 +4,16 @@
 img {
     width: 100%;
 }
-
+body {
+    background-image: url("img/sunset.jpg");
+    /* Full height */
+    height: 100%;
+  /* Create the parallax scrolling effect */
+    background-position: center;
+    background-size: cover;
+}
+.glyphicon {
+    margin: 20px;
+    height: 30px;
+    width: 50px;
+}
