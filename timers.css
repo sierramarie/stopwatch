@@ -5,12 +5,13 @@ img {
     width: 100%;
 }
 body {
-    background-image: url("img/sunset.jpg");
+    background-image: url("img/mountains.jpg");
     /* Full height */
     height: 100%;
   /* Create the parallax scrolling effect */
     background-position: center;
     background-size: cover;
+    color: #000;
 }
 .glyphicon {
     margin: 20px;
